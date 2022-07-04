@@ -182,7 +182,8 @@ For more examples and ideas, visit:
 
 开发板： ROC-RK3568-PC四核64位开源主板 
 
-![img](https://thundersoft.feishu.cn/space/api/box/stream/download/asynccode/?code=MjI1OTNlODQyYjY0NGIwMDk3ZGRkNGE2YjczMDI2YmZfUVd6Y0NRSWlrdUYzNzF6ckdPbXlWbjllYVNrZVJiRWJfVG9rZW46Ym94Y25ya2tTdDhlQmc5eWVXTHBNckkzVlRoXzE2NTY5MjIwNjA6MTY1NjkyNTY2MF9WNA)
+<img src="./images/rk3568.png">
+
 
 软件环境
 
@@ -756,9 +757,7 @@ For more examples and ideas, visit:
 ```
 
 实际执行效果：
-
-![img](https://thundersoft.feishu.cn/space/api/box/stream/download/asynccode/?code=YmU0YzYyYzBjNDQxODYyYWQ5MGQyY2U5MzEyOWMxY2ZfbUozRkZKTG85MkZ5b0IzcHRQWWQzOTk2c0x1c2xwY1JfVG9rZW46Ym94Y25ZcE5BNm1TUkJhTDN0a2RPMmQweXBBXzE2NTY5MjIwNjA6MTY1NjkyNTY2MF9WNA)
-
+<img src="./images/dockerrun.png">
 
 
 ### KubeEdge
